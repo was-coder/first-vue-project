@@ -1,12 +1,12 @@
 <template>
     <div class="centered">
-        <h1>Adelakun Wasiu</h1>
+        <h1>{{name}}</h1>
     </div>
 </template>
 
 <script>
 export default {
-    props : name
+    props : ['name']
 }
 </script>
 

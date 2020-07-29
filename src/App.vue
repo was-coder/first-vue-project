@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <myName />
+    <myName name="Adelakun Wasiu" />
   </div>
 </template>
 
