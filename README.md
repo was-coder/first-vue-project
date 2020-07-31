@@ -25,5 +25,5 @@
 
 <div>
     <h3>HOST LINK</h3>
-    <p> It is hosted on netlify and the link is https://quizzical-bardeen-f93d75.netlify.app/</p>
+    <p> It is hosted on netlify and the link is https://reverent-jang-8c9012.netlify.app/</p>
 </div>
